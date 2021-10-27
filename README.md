@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [View Solution](https://your-solution-url.com)
-- Live Site URL: [View Live Site](https://your-live-site-url.com)
+- Live Site URL: [View Live Site](https://sahupratik30.github.io/stats-preview-card/)
 
 ## My process
 
