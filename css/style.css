@@ -58,6 +58,7 @@ body {
   -moz-border-radius: 12px;
   -ms-border-radius: 12px;
   -o-border-radius: 12px;
+  overflow: hidden;
 }
 .stats__preview-image {
   width: 100%;
@@ -69,13 +70,9 @@ body {
     url("../images/image-header-desktop.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  border-top-left-radius: inherit;
-  border-top-right-radius: inherit;
 }
 .stats__preview-card {
   background-color: var(--dark-desaturated-blue);
-  border-bottom-left-radius: inherit;
-  border-bottom-right-radius: inherit;
   text-align: center;
 }
 .stats__preview-card .heading {
@@ -128,19 +125,11 @@ body {
     width: 50%;
   }
   .stats__preview-card {
-    border-top-left-radius: inherit;
-    border-bottom-left-radius: inherit;
-    border-top-right-radius: 0;
-    border-bottom-right-radius: 0;
     padding: 3rem;
     text-align: left;
   }
   .stats__preview-image {
     height: 100%;
-    border-top-left-radius: 0;
-    border-bottom-left-radius: 0;
-    border-top-right-radius: inherit;
-    border-bottom-right-radius: inherit;
   }
   .stats__preview-card .heading {
     font-size: 3rem;
